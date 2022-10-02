@@ -12,22 +12,15 @@ group-title = "🅱️SERIEB" tvg-logo="https://bit.ly/3Eh86im", 🔴AO VIVO
 https://play.prod. 
 
 
-#EXTINF:-1
-group-title = "🅱️SERIEB" tvg-logo="https://bit.ly/3Eh86im", 🔴AO VIVO
-https://play.prod 
 
-
-#EXTINF:-1
+#EXTINF:0
 group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", 🔴AO VIVO 
 https://play.prod. 
 
-#EXTINF:-1
+#EXTINF:0
 group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", 🔴AO VIVO 
 https://play.prod. 
 
-#EXTINF:-1
-group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", 🔴AO VIVO 
-https://play.prod. 
 
 
 #EXTINF:-1
@@ -39,17 +32,14 @@ group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 🔴AO VIVO |CIT
 http://assistirstla.b-cdn.net/live/espn/chunks.m3u8?token=8GMhEc4HrXKL563b4nyie5JA0WLgmQiLy4xqQCRosHQ&expires=1664745238
 
 
-#EXTINF:-1
+#EXTINF:0
 group-title = "🏆INTERNACIONAL"  tvg-logo="https://bit.ly/3E8Wxtz", 🔴AO VIV0
 https://play.prod.g 
 
-#EXTINF:-1
+#EXTINF:0
 group-title = "🏆INTERNACIONAL"  tvg-logo="https://bit.ly/3E8Wxtz", 🔴AO VIV0
 https://play.prod.g 
 
-#EXTINF:-1
-group-title = "🏆INTERNACIONAL"  tvg-logo="https://bit.ly/3E8Wxtz", 🔴AO VIV0
-http://assistirstla.b-cdn.net/live/premiereclubes/chunks.m3u8?token=nm8MX01Xq6PdjzhM601Ii8skW54Ymos5c-ttiRzPUaI&expires=1664730604
 
 
 
