@@ -37,11 +37,11 @@ https://play.prod.
 🟥🟦⬛⬜🟥🟦⬜🟦🟥⬛🟦⬜🟦⬛🟦🟥🟦⬛🟥🟦⬛🟥🟦⬛⬜🟥
 #EXTINF:-1
 group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 🔴AO VIVO |JUV × BOL|15:45h
-http://assistirstla.b-cdn.net/live/premiereclubes/chunks.m3u8?token=nm8MX01Xq6PdjzhM601Ii8skW54Ymos5c-ttiRzPUaI&expires=1664730604
+http://assistirstla.b-cdn.net/live/espn/chunks.m3u8
 
 #EXTINF:-1
 group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 🔴AO VIVO |CITY × UNIT|10:00h
-http://assistirstla.b-cdn.net/live/espn/chunks.m3u8?token=8GMhEc4HrXKL563b4nyie5JA0WLgmQiLy4xqQCRosHQ&expires=1664745238
+
 
 
 
@@ -58,7 +58,7 @@ https://play.prod.g
 #EXTINF:-1
 group-title = "🏆INTERNACIONAL  tvg-logo="https://bit.ly/3E8Wxtz", 🔴AO VIV0
 http://assistirstla.b-cdn.net/live/premiereclubes/chunks.m3u8?token=nm8MX01Xq6PdjzhM601Ii8skW54Ymos5c-ttiRzPUaI&expires=1664730604
-
+http://assistirstla.b-cdn.net/live/espn/chunks.m3u8
 
 
 
