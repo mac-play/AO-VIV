@@ -32,8 +32,8 @@ group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 🔴AO VIVO
 
 
 #EXTINF:0
-group-title = "🏆INTERNACIONAL"  tvg-logo="https://bit.ly/3E8Wxtz", 🔴AO VIV0 
-http://assistirstla.b-cdn.net/live/en/chunks.m3u8 
+group-title = "🏆INTERNACIONAL"  tvg-logo="https://bit.ly/3E8Wxtz", 🟢AO VIV0 
+http://assistirstla.b-cdn.net/live/sportv/chunks.m3u8?token=7wUHUpuU5F_DS23zZE2-Hq1aTqPFzmmoK5ThydlVHno&expires=1665054717 
 
 #EXTINF:0
 group-title = "🏆INTERNACIONAL"  tvg-logo="https://bit.ly/3E8Wxtz", 🔴AO VIV0
