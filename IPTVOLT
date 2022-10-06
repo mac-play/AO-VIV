@@ -8,31 +8,31 @@ group-title = "🅱️SERIEB" tvg-logo="https://bit.ly/3Eh86im", 🔴AO VIVO
 https://play.prod. 
 
 #EXTINF:-1
-group-title = "🅱️SERIEB" tvg-logo="https://bit.ly/3Eh86im", 🔴AO VIVO CRUZEIRO×ITUANO 21:30
-http://assistirstla.b-cdn.net/live/premiere2/chunks.m3u8?token=P3ps7PlmFaYnQf_viWRNFRzVmrynq-f3nxXhlYAbWfU&expires=1665045969
+group-title = "🅱️SERIEB" tvg-logo="https://bit.ly/3Eh86im", 🔴AO VIVO 
+http://assistirstla.b-cdn.net/live/premiere2/chunks.m3u8?token=P3ps7PlmFaYnQf_viVmrynq-f3nxXhlYAbWfU&expires=1665045969
 
 
 
 #EXTINF:0
-group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", 🔴AO VIVO FLAMENGO×INTERNACIONAL 21:30
+group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", 🔴AO VIVO |AVA×BOT| 20:06
 http://assistirstla.b-cdn.net/live/premiereclubes/chunks.m3u8?token=IX7pHof_NA_hc5xjjcCxauX5Gx1ZbYky8dP5F8jn9BI&expires=1665045969. 
 
 #EXTINF:0
-group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", 🔴AO VIVO CEARA×GOIAS 19h 
-http://assistirstla.b-cdn.net/live/premiere2/chunks.m3u8?token=P3ps7PlmFaYnQf_viWRNFRzVmrynq-f3nxXhlYAbWfU&expires=1665045969
+group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", 🔴AO VIVO |PAL×COR| 18:54
+http://assistirstla.b-cdn.net/live/premiereclubes/chunks.m3u8?token=ygejP_SAUbb8PF3DIuOX54ayHmTcxuXqlmrPiYPcSmo&expires=1665101213
 
 
 
 #EXTINF:-1
-group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 🔴AO VIVO RIVERPLATE×ESTUDIANTES 
-http://assistirstla.b-cdn.net/live/espn4/chunks.m3u8?token=XIRuucm8k4JFQdPnIOeYAp6gD1-3yhKwIqVMnVfMKVk&expires=1665045969
+group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 🔴AO VIVO |SHE×REA| 13:45
+http://assistirstla.b-cdn.net/live/espn3/chunks.m3u8?token=YjVM9WcJvwWTb9YMZXjqcRGTkDvZBTp3haNk3ADOKHk&expires=1665101213
 
 #EXTINF:-1
-group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 🔴AO VIVO 
-
+group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 🔴AO VIVO |ARS×BOD| 16:00
+http://assistirstla.b-cdn.net/live/espn/chunks.m3u8?token=Y0gxOHErZuJSEBDau-Pgu1uoO5ZF_yrOqNoqdaG1ckg&expires=1665101213
 
 #EXTINF:0
-group-title = "🏆INTERNACIONAL"  tvg-logo="https://bit.ly/3E8Wxtz", 🟢AO VIV0 
+group-title = "🏆INTERNACIONAL"  tvg-logo="https://bit.ly/3E8Wxtz", 🔴AO VIV0 
 http://assistirstla.b-cdn.net/live/sportv/chunks.m3u8?token=7wUHUpuU5F_DS23zZE2-Hq1aTqPFzmmoK5ThydlVHno&expires=1665054717 
 
 #EXTINF:0
