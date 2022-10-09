@@ -4,8 +4,8 @@ Infor_@macplaytv10@gmail.com
 
 
 #EXTINF:-1
-group-title = "🅱️SERIEB" tvg-logo="https://bit.ly/3Eh86im", 🔴AO VIVO |LON×GRE| 16:27
-http://assistirstla.b-cdn.net/live/premiereclubes/chunks.m3u8?token=pNKL-cdwfhburvJn8-o1_3moG9w0vVabwhx2gXRX0rs&expires=1665299571
+group-title = "🅱️SERIEB" tvg-logo="https://bit.ly/3Eh86im", 🔴AO VIVO |SPO×CRU| &#h
+http://assistirstla.b-cdn.net/live/sportv/chunks.m3u8?token=Q-qjyMPkzA4DlgLl55D8INUk0yJoL5A4Dmajl0XXhGs&expires=1665362111
 
 #EXTINF:-1
 group-title = "🅱️SERIEB" tvg-logo="https://bit.ly/3Eh86im", 🔴AO VIVO |VAS×NOV| 18:27
@@ -14,22 +14,22 @@ http://assistirstla.b-cdn.net/live/premiere2/chunks.m3u8?token=0N3XPo87Yyw-1puPC
 
 
 #EXTINF:0
-group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", 🔴AO VIVO |CUI×FLA| 19h
-http://assistirstla.b-cdn.net/live/premiereclubes/chunks.m3u8?token=pNKL-cdwfhburvJn8-o1_3moG9w0vVabwhx2gXRX0rs&expires=1665299571. 
+group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", 🔴AO VIVO |INT×GOI| 11h
+http://assistirstla.b-cdn.net/live/premiereclubes/chunks.m3u8?token=Fr6oxHW09DJkdiF-iQUcpS5ALeQGmEXJehfT5_4YHTo&expires=1665362111 
 
 #EXTINF:0
-group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", 🔴AO VIVO |COR×ATH| 21:32
+group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", 🔴AO VIVO |MINEIRO×CEARA| 06:00pm
 http://assistirstla.b-cdn.net/live/sportv/chunks.m3u8?token=hZL_ZdbQr_St8xBi3lYGaDcUSCldh7kx9Pv2Lr2mWn4&expires=1665299571
 
 
 
 #EXTINF:-1
-group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 🔴AO VIVO  |REM×PSG| 16h
-http://assistirstla.b-cdn.net/live/espn4/chunks.m3u8?token=E0vpf2ch7qeSSWLc1pugRwS9vOEHpouPJB_4nWVL3Xk&expires=1665299571
+group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 🔴AO VIVO  |ARSENAL×LIVERPOOL| 15h
+http://assistirstla.b-cdn.net/live/espn/chunks.m3u8?token=fk7HPHJJW-7JCQUzSSz3yIFWIGqDqnhbd2QJ9qDr0GU&expires=1665362111
 
 #EXTINF:-1
-group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 🔴AO VIVO |BET×REAL| 16h
-http://assistirstla.b-cdn.net/live/espn/chunks.m3u8?token=ei0mv_h0KQic45DwESBXUJtjFP8l2rv3FDSUxpDZlsM&expires=1665299571
+group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 🔴AO VIVO |EVE×CITY| 16h
+http://assistirstla.b-cdn.net/live/espn/chunks.m3u8?token=fk7HPHJJW-7JCQUzSSz3yIFWIGqDqnhbd2QJ9qDr0GU&expires=1665362111
 
 #EXTINF:0
 group-title = "🏆INTERNACIONAL"  tvg-logo="https://bit.ly/3E8Wxtz", 🔴AO VIV0 FALHA AO CARREGAR 
