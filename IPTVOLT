@@ -29,7 +29,7 @@ http://sbt.cirandateam.ga:8880/sbt/chunks.m3u8
 
 #EXTINF:-1
 group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 🔴AO VIVO |CITY×COPE|
-http://stlahiper.b-cdn.net/live/disneychannel/chunks.m3u8?token=mPrh7wPJUZhHw_7W_Qm_SOzMfIvOJOGK3b1dRT71-PI&expires=1665548038
+http://stlahiper.b-cdn.net/live/tnt/chunks.m3u8?token=aSTMeNJxBtMNpXg7I_w-MahYfAAEM8rFyJo6gP_YdCI&expires=1665548296
 
 #EXTINF:0
 group-title = "🏆INTERNACIONAL"  tvg-logo="https://bit.ly/3E8Wxtz", 🔴AO VIV0 [BRAXITA] 13:30
