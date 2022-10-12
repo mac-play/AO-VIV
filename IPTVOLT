@@ -3,40 +3,28 @@
 Infor_@macplaytv10@gmail.com
 
 
-#EXTINF:-1
-group-title = "🅱️SERIEB" tvg-logo="https://bit.ly/3Eh86im", 🔴AO VIVO |CHA×SAM|
+#EXTINF:-1 group-title = "🅱️SERIEB" tvg-logo="https://bit.ly/3Eh86im", |■×■|
 http://stlahiper.b-cdn.net/live/premiereclubes/chunks.m3u8?token=9Q-qNwqCdZo91AyR03pdIdIn_iceEAyMuui2Y9oVTmE&expires=1665548296
-
-#EXTINF:-1
-group-title = "🅱️SERIEB" tvg-logo="https://bit.ly/3Eh86im", 🔴AO VIVO |GUA×CRB|
+#EXTINF:-1 group-title = "🅱️SERIEB" tvg-logo="https://bit.ly/3Eh86im", |■×■|
 http://assistirstla.b-cdn.net/live/premiere2/chunks.m3u8?token=0N3XPo87Yyw-1puPCbtA0fiEL0ohRRk7lDRskYgEUZE&expires=1665299571
 
 
 
-#EXTINF:0
-group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", 🔴AO VIVO 
+#EXTINF:0 group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", |■×■|
 http://assistirstla.b-cdn.net/live/premiereclubes/chunks.m3u8?token=Fr6oxHW09DJkdiF-iQUcpS5ALeQGmEXJehfT5_4YHTo&expires=1665362111 
-
-#EXTINF:0
-group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", 🔴AO VIVO  
+#EXTINF:0 group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", |■×■|
 http://stlahiper.b-cdn.net/live/premiereclubes/chunks.m3u8?token=zqCbaG0hAa3lnyQG0ps2ztwvKHo1I11QxqQYZU0i3tk&expires=1665444688
 
 
 
-#EXTINF:-1
-group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 🔴AO VIVO  |PSG×BEM|
+#EXTINF:-1 group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", |TEAM×TEAM|
 http://sbt.cirandateam.ga:8880/sbt/chunks.m3u8
-
-#EXTINF:-1
-group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 🔴AO VIVO |CITY×COPE|
+#EXTINF:-1 group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", |TEAM×TEAM| 
 http://stlahiper.b-cdn.net/live/tnt/chunks.m3u8?token=aSTMeNJxBtMNpXg7I_w-MahYfAAEM8rFyJo6gP_YdCI&expires=1665548296
 
-#EXTINF:0
-group-title = "🏆INTERNACIONAL"  tvg-logo="https://bit.ly/3E8Wxtz", 🔴AO VIV0 [BRAXITA] 13:30
+#EXTINF:0 group-title = "🇶🇦CATAR WORD CUP"  tvg-logo="https://bit.ly/3E8Wxtz", 🏆COPA DO MUNDO
 http://stlahiper.b-cdn.net/live/sportv/chunks.m3u8?token=Y0zpYrpTne4nKvm5Mcs-Y5Jc_hsavyKFFClW60kwbks&expires=1665444688 
-
-#EXTINF:0
-group-title = "🏆INTERNACIONAL"  tvg-logo="https://bit.ly/3E8Wxtz", 🔴AO VIV0 FALHA AO CARREGAR
+#EXTINF:0 group-title = "🇶🇦CATAR WORD CUP"  tvg-logo="https://bit.ly/3E8Wxtz", 🏆COPA DO MUNDO
 https://bit.ly/3rJyqdO.
 
 
