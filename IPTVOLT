@@ -18,9 +18,9 @@ http://stlahiper.b-cdn.net/live/premiereclubes/chunks.m3u8?token=zqCbaG0hAa3lnyQ
 
 
 #EXTINF:-1 group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 💥VIKTORIA×MUNICH |16h
-http://stlahiper.b-cdn.net/live/stlatvfut2/chunks.m3u8 
+https://stlahiper.b-cdn.net/live/stlatvfut2/chunks.m3u8 
 #EXTINF:-1 group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 💥BARCELONA×INTERMIL |16h
-http://stlahiper.b-cdn.net/live/tnt/chunks.m3u8
+https://stlahiper.b-cdn.net/live/tnt/chunks.m3u8
 
 #EXTINF:0 group-title = "🇶🇦CATAR WORD CUP"  tvg-logo="https://bit.ly/3E8Wxtz", 🏆COPA DO MUNDO
 http://stlahiper.b-cdn.net/live/sportv/chunks.m3u8?token=Y0zpYrpTne4nKvm5Mcs-Y5Jc_hsavyKFFClW60kwbks&expires=1665444688 
