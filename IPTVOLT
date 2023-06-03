@@ -1,6 +1,15 @@
 
-#EXTM3U 
-Infor_@macplaytv10@gmail.com
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" 
+
+#SUFRU EDITION 
+
+⛔ PLUTO 
+
+⛔ PLEX 
+
+⛔ LG CHANELS 
+
+⛔ SANSUNG CHANELS 
 
 
 #EXTINF:-1 group-title = "🅱️SERIEB" tvg-logo="https://bit.ly/3Eh86im", 🅱️LOADING...
