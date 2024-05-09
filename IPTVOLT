@@ -12,29 +12,57 @@
 ⛔ SANSUNG CHANELS 
 
 
-#EXTINF:-1 group-title = "🅱️SERIEB" tvg-logo="https://bit.ly/3Eh86im", 🅱️LOADING...
-http://stlahiper.b-cdn.net/live/premiereclubes/chunks.m3u8?token=9Q-qNwqCdZo91AyR03pdIdIn_iceEAyMuui2Y9oVTmE&expires=1665548296
-#EXTINF:-1 group-title = "🅱️SERIEB" tvg-logo="https://bit.ly/3Eh86im", 🅱️LOADING...
-http://assistirstla.b-cdn.net/live/premiere2/chunks.m3u8?token=0N3XPo87Yyw-1puPCbtA0fiEL0ohRRk7lDRskYgEUZE&expires=1665299571
+#EXTINF:-1 tvg-id="allsports.br" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="ESPORTES",All Sports | Brasil
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="64df7ab4dfa32400083c517b" tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/colorLogoPNG.png" group-title="ESPORTES",DAZN
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64df7ab4dfa32400083c517b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="64df7ab4dfa32400083c517b" tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/colorLogoPNG.png" group-title="ESPORTES",DAZN 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64df7ab4dfa32400083c517b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="64b02be14ea480000831ec78" tvg-logo="https://images.pluto.tv/channels/64b02be14ea480000831ec78/colorLogoPNG.png" group-title="ESPORTES",DAZN² 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b02be14ea480000831ec78livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="64b02be14ea480000831ec78" tvg-logo="https://images.pluto.tv/channels/64b02be14ea480000831ec78/colorLogoPNG.png" group-title="ESPORTES",DAZN²
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b02be14ea480000831ec78livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+🔴🟢⚪️🔴🟢⚪️
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",Motorvision
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",Motorvision²
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",Motorvision³
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",Motorvision⁴ 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
+
+#EXTINF:-1 tvg-id="64f6180130ab3300083d896b" tvg-logo="https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png" group-title="ESPORTES",PFL MMA 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f6180130ab3300083d896b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="64f6180130ab3300083d896b" tvg-logo="https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png" group-title="ESPORTES",PFL MMA²
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f6180130ab3300083d896b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+🔴🟢⚪️
+
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",News Web BR
+https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Internacional.br" tvg-logo="https://i.imgur.com/FStHrVv.png" group-title="ESPORTES",Sport Club Internacional 
+https://clubeinternacionalcod.akamaized.net/internacional/internacional/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UniqueSports.br" tvg-logo="https://uniquetv.com.br/img/logo-uniquetv.png" group-title="ESPORTES",Unique Sports
+https://video05.logicahost.com.br/uniquetvsports/uniquetvsports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VitrineEsportiva.br" tvg-logo="https://i.imgur.com/zKi4iBj.png" group-title="ESPORTES",Vitrine Esporte
+https://cdn.live.br1.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
 
 
 
-#EXTINF:0 group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", 🔴FLAMERDA×CORINTHIANS 21:45h
-http://stlahiper.b-cdn.net/live/premiereclubes/chunks.m3u8?token=H010F1MbnKW2xRghu1k9tegWJ7lmvJwY_CV4PvAKmlo&expires=1665628526 
-#EXTINF:0 group-title = "🅰SERIEA" tvg-logo="https://bit.ly/3Su3pWW", 🔴LOADING...
-http://stlahiper.b-cdn.net/live/premiereclubes/chunks.m3u8?token=zqCbaG0hAa3lnyQG0ps2ztwvKHo1I11QxqQYZU0i3tk&expires=1665444688
-
-
-
-#EXTINF:-1 group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 💥VIKTORIA×MUNICH |16h
-http://stlahiper.b-cdn.net/live/stlatvfut2/chunks.m3u8?token=7_1FcVTrDIpqmRHymcwBRhZ1LTVmu1lKH2_JvDRI1Rc&expires=1665628526 
-#EXTINF:-1 group-title = "⚽️OUTROS" tvg-logo="https://bit.ly/3UTuKU5", 💥BARCELONA×INTERMIL |16h
-http://stlahiper.b-cdn.net/live/tnt/chunks.m3u8?token=sYSqgeW1hDcW4lb4z_C3hNultjCRxvo82q3glWZ1_iI&expires=1665628526
-
-#EXTINF:0 group-title = "🇶🇦CATAR WORD CUP"  tvg-logo="https://bit.ly/3E8Wxtz", 🏆COPA DO MUNDO
-http://stlahiper.b-cdn.net/live/sportv/chunks.m3u8?token=Y0zpYrpTne4nKvm5Mcs-Y5Jc_hsavyKFFClW60kwbks&expires=1665444688 
-#EXTINF:0 group-title = "🇶🇦CATAR WORD CUP"  tvg-logo="https://bit.ly/3E8Wxtz", 🏆COPA DO MUNDO
-https://bit.ly/3SVgCYY
 
 
 
