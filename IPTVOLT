@@ -27,7 +27,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b02be14
 #EXTINF:-1 tvg-id="64b02be14ea480000831ec78" tvg-logo="https://images.pluto.tv/channels/64b02be14ea480000831ec78/colorLogoPNG.png" group-title="ESPORTES",DAZN²
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b02be14ea480000831ec78livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-🔴🟢⚪️🔴🟢⚪️
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",Motorvision
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
@@ -47,7 +46,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f618013
 #EXTINF:-1 tvg-id="64f6180130ab3300083d896b" tvg-logo="https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png" group-title="ESPORTES",PFL MMA²
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f6180130ab3300083d896b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-🔴🟢⚪️
 
 #EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",News Web BR
 https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/playlist.m3u8
@@ -61,7 +59,20 @@ https://video05.logicahost.com.br/uniquetvsports/uniquetvsports/playlist.m3u8
 #EXTINF:-1 tvg-id="VitrineEsportiva.br" tvg-logo="https://i.imgur.com/zKi4iBj.png" group-title="ESPORTES",Vitrine Esporte
 https://cdn.live.br1.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="http://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="ESPORTES",beIN Sports Xtra²
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30alivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
+#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="http://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="ESPORTES",beIN Sports Xtra en español
+http://linear-256.frequency.stream/256/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GnKor3Y.png" group-title="ESPORTES",Esport3 Exclusiu Internet em catalão
+https://directes-tv-int.ccma.cat/int/ngrp:oca2_web/master.m3u8
+
+EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-logo="http://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="ESPORTES",beIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="59641d9173ac1fec2fc01f17" tvg-logo="http://images.pluto.tv/channels/59641d9173ac1fec2fc01f17/colorLogoPNG.png" group-title="ESPORTES",Big Sky Conference
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
 
