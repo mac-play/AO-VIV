@@ -97,11 +97,11 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 #EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="TELEVISÃO",Canal UOL | 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6kg2X.png" group-title="TELEVISÃO",CBTV Now
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6kg2X.png" group-title="TELEVISÃO",CBTV Now
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
-EXTINF:-1 tvg-id="RedeMetropole.br" tvg-logo="https://i.imgur.com/ffhXhdQ.png" group-title="TELEVISÃO",Rede Metrópole | Brasil
+#EXTINF:-1 tvg-id="RedeMetropole.br" tvg-logo="https://i.imgur.com/ffhXhdQ.png" group-title="TELEVISÃO",Rede Metrópole | Brasil
 https://acesso.ecast.site:3456/stream/play.m3u8
 
-EXTINF:-1 tvg-id="TVSPE.br" tvg-country="BR" tvg-idioma="Português" tvg-logo="https://i.imgur.com/zTaRKN7.png" título do grupo ="TELEVISÃO",TVS Surubim PE | Brasil
+#EXTINF:-1 tvg-id="TVSPE.br" tvg-country="BR" tvg-idioma="Português" tvg-logo="https://i.imgur.com/zTaRKN7.png" título do grupo ="TELEVISÃO",TVS Surubim PE | Brasil
 https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
