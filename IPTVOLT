@@ -76,6 +76,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59641d917
 
 
 
+#EXTINF:-1 tvg-id="SESCTV.br" tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="ACADEMICO",Sesc TV 
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dUdZVhT.png" group-title="ACADEMICO",Phoenix TV
+http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="ACADEMICO",Pronto-Socorro: histórias de emergência
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
