@@ -113,3 +113,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b4
 
 #EXTINF:0 tvg-id="TVSPE.br" tvg-country="BR"  tvg-logo="https://i.imgur.com/zTaRKN7.png" group-title ="TELEVISÃO",TVS Surubim PE | Brasil
 https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES 2020" tvg-logo="https://is.gd/OlCWQV", ANUNCIOS <?php
+$video_url = "https://sinalpublico.com/player3/ch.php?canal=paramount&__cf_chl_rt_tk=wHCeb0NBLP04Py0qpu9.wuHjs9kIDjFIoHz_cWEvT.I-1715356954-0.0.1.1-1365";
+?>
