@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" 
 
+
+tvg-idioma="Português"https://www.instagram.com/p/C6w-qTfN4OM/?igsh=YzljYTk1ODg3Zg==
+
 #EXTINF:-1 group-title="the walkingdead of tales" tvg-logo="https://is.gd/OlCWQV",ss1 ep01
 https://youtu.be/embed/RdolDV5_AzCoMJi8
 
